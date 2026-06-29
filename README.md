@@ -2,6 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Akhil-9999&label=Profile%20Views&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/Akhil-9999?label=Follow&style=social)](https://github.com/Akhil-9999)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Akhil+Goud+👋;Software+Engineer+II;Distributed+Systems+Engineer;Cloud+Infrastructure+%7C+Networking;C%2B%2B+%7C+Go+%7C+Python+%7C+Java;Performance+Engineering;Backend+%7C+System+Design" alt="Typing SVG"/>
 
 </div>
 
