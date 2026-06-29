@@ -1,11 +1,13 @@
 <div align="center">
 
-# 👋 Hi, I'm Akhil Goud Aithagani
+# 👋 Hi, I'm Akhil Goud 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Akhil-9999&label=Profile%20Views&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/Akhil-9999?label=Follow&style=social)](https://github.com/Akhil-9999)
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=950&lines=Software+Engineer+II;Building+Scalable+Distributed+Systems;Cloud+Infrastructure+%7C+Networking;C%2B%2B+%7C+Go+%7C+Python+%7C+Java;Performance+Engineering+%7C+System+Design;Always+Learning+Something+New+🚀" alt="Typing SVG"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Software+Engineer+II;Distributed+Systems;Cloud+Infrastructure;C%2B%2B;Go;Python;Java;Performance+Engineering;System+Design" alt="Typing SVG"/>
 
 </div>
 
