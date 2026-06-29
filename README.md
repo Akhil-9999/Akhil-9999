@@ -15,7 +15,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm **Akhil Goud Aithagani**, a Software Engineer with **5 years of experience** building production-grade AI systems, full-stack applications, and cloud-native infrastructure. I love turning complex problems into clean, scalable solutions — from RAG pipelines to compliance agents.
+I'm **Akhil Goud Aithagani**, a Software Engineer with **4+ years of experience** building production-grade AI systems, full-stack applications, and cloud-native infrastructure. I love turning complex problems into clean, scalable solutions — from RAG pipelines to compliance agents.
 
 - 🚀 Currently building **AI-powered document Q&A platforms** and **LLM agent systems** with LangChain, LangGraph & Claude
 - 📝 I write about AI, software engineering, and tech on **Medium**
