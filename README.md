@@ -1,14 +1,11 @@
 <div align="center">
 
+# 👋 Hi, I'm Akhil Goud Aithagani
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Akhil-9999&label=Profile%20Views&color=0e75b6&style=flat)
 [![GitHub followers](https://img.shields.io/github/followers/Akhil-9999?label=Follow&style=social)](https://github.com/Akhil-9999)
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there!+I'm+Akhil+Goud+👋;Software+Engineer+II;Distributed+Systems+Engineer;Cloud+Infrastructure+%7C+Networking;C%2B%2B+%7C+Go+%7C+Python+%7C+Java;Performance+Engineering;Backend+%7C+System+Design" alt="Typing SVG"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Akhil+Goud+👋;Software+Engineer+II;Distributed+Systems+%7C+Cloud+Infrastructure;C%2B%2B+%7C+Go+%7C+Python+%7C+Java;Networking+%7C+Performance+Engineering;System+Design+%7C+Cloud+Native" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&duration=3200&pause=900&color=36BCF7&center=true&vCenter=true&width=950&lines=Software+Engineer+II;Building+Scalable+Distributed+Systems;Cloud+Infrastructure+%7C+Networking;C%2B%2B+%7C+Go+%7C+Python+%7C+Java;Performance+Engineering+%7C+System+Design;Always+Learning+Something+New+🚀" alt="Typing SVG"/>
 
 </div>
 
@@ -16,26 +13,37 @@
 
 # 👨‍💻 About Me
 
-I'm **Akhil Goud Aithagani**, a **Software Engineer II** with **4+ years of experience** designing and building scalable distributed systems, backend services, and cloud-native infrastructure.
+I'm **Akhil Goud Aithagani**, a **Software Engineer II** with **4+ years of experience** building scalable backend services, distributed systems, and cloud-native infrastructure.
 
-My experience spans developing high-performance backend applications using **C++, Go, Python, and Java**, debugging large-scale production systems, optimizing distributed applications, and improving infrastructure reliability across cloud and networking environments.
+My work focuses on designing reliable systems using **C++, Go, Python, and Java**, improving cloud infrastructure, debugging production systems, optimizing performance, and building highly available backend services.
 
-I enjoy solving challenging engineering problems involving distributed systems, networking, cloud infrastructure, performance optimization, and system design.
+I enjoy solving challenging engineering problems involving:
 
-### 🚀 What I Do
-
-- Design scalable distributed systems
-- Build cloud-native backend services
-- Develop networking and infrastructure solutions
-- Optimize system performance and reliability
-- Debug production issues across hardware, networking, and services
-- Build monitoring and observability solutions
-- Participate in architecture and design reviews
-- Perform code reviews and mentor engineering best practices
+- 🌐 Distributed Systems
+- ☁️ Cloud Infrastructure
+- ⚡ Performance Engineering
+- 🖥️ Backend Development
+- 📡 Networking
+- 🏗️ System Design
+- 🔍 Production Debugging
+- 📊 Observability & Monitoring
 
 ---
 
-# 🛠 Tech Stack
+# 🚀 What I'm Currently Working On
+
+- Designing scalable distributed systems
+- Building cloud-native backend services
+- Performance optimization & debugging
+- Kubernetes & container orchestration
+- Infrastructure automation
+- System Design interview preparation
+- Advanced Go & C++
+- Linux systems programming
+
+---
+
+# 🛠️ Tech Stack
 
 ## 💻 Programming Languages
 
@@ -55,7 +63,7 @@ I enjoy solving challenging engineering problems involving distributed systems, 
 
 ---
 
-## 🌐 Backend & Networking
+## 🌐 Backend & APIs
 
 ![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -63,7 +71,7 @@ I enjoy solving challenging engineering problems involving distributed systems, 
 
 ---
 
-## 🗄 Databases
+## 🗄️ Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -86,85 +94,137 @@ I enjoy solving challenging engineering problems involving distributed systems, 
 - Networking
 - Performance Analysis
 - Performance Optimization
-- Debugging
 - Root Cause Analysis
+- Production Debugging
 - System Design
 - Data Structures & Algorithms
 - Multithreading & Concurrency
 - Cloud Native Development
-- Kubernetes
 - Docker
+- Kubernetes
 - REST APIs
 - Code Reviews
 - Technical Design Reviews
 - CI/CD
-- Observability
 - Agile Development
 
 ---
 
 # 🚀 Featured Projects
 
-## Large-Scale Distributed Infrastructure & Networking Platform
+## 🌐 Large-Scale Distributed Infrastructure & Networking Platform
 
 **Tech Stack:** C++, Go, Python, Java, AWS, Docker, Kubernetes, REST APIs
 
-- Designed scalable distributed infrastructure components supporting millions of daily operations.
-- Built backend services emphasizing scalability, reliability, and fault tolerance.
-- Improved system performance through efficient algorithms and data structures.
-- Performed large-scale debugging, profiling, and root cause analysis.
-- Participated in architecture discussions and design reviews.
-- Reduced infrastructure incident resolution time by approximately **35%**.
+- Designed distributed infrastructure components supporting millions of daily operations.
+- Built scalable backend services emphasizing reliability and fault tolerance.
+- Optimized performance through efficient algorithms and data structures.
+- Debugged production systems and performed root cause analysis.
+- Participated in architecture discussions and technical design reviews.
+- Reduced infrastructure incident resolution time by **35%**.
 
 ---
 
-## System Health, Performance Analysis & Cloud Infrastructure
+## 📊 System Health, Performance Analysis & Cloud Infrastructure
 
 **Tech Stack:** Python, Go, AWS, Kubernetes, Prometheus, Grafana, CloudWatch
 
-- Developed monitoring and observability solutions for distributed cloud infrastructure.
-- Built performance dashboards and automated alerting pipelines.
-- Analyzed production systems to identify bottlenecks across compute, storage, and networking.
-- Improved infrastructure visibility and reliability using metrics and monitoring best practices.
-- Collaborated across engineering teams to maintain highly available production systems.
+- Built monitoring and observability solutions for distributed cloud infrastructure.
+- Developed performance dashboards and automated alerting.
+- Analyzed infrastructure bottlenecks across networking, compute, and storage.
+- Improved production reliability using metrics-driven engineering.
+- Collaborated across platform engineering teams to improve system availability.
 
 ---
 
 # 🏆 Certifications
 
-✅ AWS Certified Developer – Associate
-
-✅ AWS Certified Cloud Practitioner
-
-✅ Anthropic API Developer Certification – DeepLearning.AI
+- ✅ AWS Certified Developer – Associate
+- ✅ AWS Certified Cloud Practitioner
+- ✅ Anthropic API Developer Certification – DeepLearning.AI
 
 ---
 
 # 🎓 Education
 
-**Master of Science**
-Computer Science and Technology
-Eastern Illinois University
+**Master of Science**  
+Computer Science and Technology  
+Eastern Illinois University  
 *Jan 2023 – May 2024*
 
-**Bachelor of Technology**
-Computer Science and Engineering
+**Bachelor of Technology**  
+Computer Science and Engineering  
 SRM Institute of Science and Technology
-India
 
 ---
 
 # 🌱 Currently Learning
 
 - Advanced Distributed Systems
-- High Performance Computing
 - Linux Systems Programming
 - Go Internals
 - Kubernetes Networking
+- High Performance Computing
 - gRPC
-- Distributed Consensus Algorithms
+- Distributed Consensus
 - Cloud Infrastructure Design
-- Service Reliability Engineering (SRE)
+- Site Reliability Engineering
+
+---
+
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akhil-9999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-9999&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil-9999&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+[![Akhil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Akhil-9999&theme=tokyo-night)](https://github.com/Akhil-9999)
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Akhil-9999&theme=algolia&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+# 💼 Career Interests
+
+- Software Engineering
+- Distributed Systems
+- Infrastructure Engineering
+- Backend Engineering
+- Cloud Infrastructure
+- Platform Engineering
+- Site Reliability Engineering
+- Performance Engineering
+- Networking Systems
+- Systems Programming
+
+---
+
+# 💡 Favorite Quote
+
+> **"Simplicity is prerequisite for reliability."**  
+> — Edsger W. Dijkstra
 
 ---
 
@@ -182,55 +242,14 @@ India
 
 ---
 
-# 📊 GitHub Statistics
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Akhil-9999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+## ⭐ Thanks for Visiting!
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhil-9999&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akhil-9999&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Akhil-9999&theme=algolia&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-# 💼 Career Interests
-
-- Software Engineering
-- Infrastructure Engineering
-- Distributed Systems
-- Backend Engineering
-- Cloud Infrastructure
-- Site Reliability Engineering
-- Platform Engineering
-- Performance Engineering
-- Networking Systems
-- Systems Programming
-
----
-
-<div align="center">
-
-## ⭐ Build Reliable Systems. Solve Complex Problems. Keep Learning.
+**Build scalable systems. Solve complex problems. Keep learning.**
 
 *"First, solve the problem. Then, write clean, scalable, and reliable software."*
 
-If you enjoy my work, don't forget to ⭐ my repositories!
+⭐ **If you like my projects, consider giving them a star!**
 
 </div>
